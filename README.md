@@ -1,6 +1,6 @@
 ## Welcome !!
 
-[Read on Webpage](https://muneeer.github.io/Some-Public-Projects/)
+[View on Webpage](https://muneeer.github.io/Some-Public-Projects/)
 
 Thankyou for joining me here . i am gonna link some of my simple project i worked on as a complete beginner. These make me feel nostalgic whenever i see them lol.
 
