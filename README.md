@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome !!
 
-You can use the [editor on GitHub](https://github.com/Muneeer/Some-Public-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thankyou for joining me here . i am gonna link some of my simple project i worked on as a complete beginner. These make me feel nostalgic whenever i see them lol.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Begining
 
-### Markdown
+this is the very first page i worked on following some video series on youtube.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[The Begining](https://muneeer.github.io/thebegining/)
 
-```markdown
-Syntax highlighted code block
+For more details see the code here [code on GitHub](https://github.com/Muneeer/thebegining).
 
-# Header 1
-## Header 2
-### Header 3
+### The Color Game
 
-- Bulleted
-- List
+Enjoy the color game by guessing its rgb. I had fun working on this one lol
 
-1. Numbered
-2. List
+[The Color Game](https://muneeer.github.io/TheColorMasters/)
 
-**Bold** and _Italic_ and `Code` text
+For more details see the code here [code on GitHub](https://github.com/Muneeer/TheColorMasters).
 
-[Link](url) and ![Image](src)
-```
+### Todo Application
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is a simple dynamic todo application where you can add your todo list and check and unchecked them if they are completed or not. I still remember it took almost whole night for me to complete this simple app lol.
+you are welcome if you want to work on its css.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Muneeer/Some-Public-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Todo Application](https://muneeer.github.io/Simple-TODO-App/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see the code here [code on GitHub](https://github.com/Muneeer/Simple-TODO-App).
